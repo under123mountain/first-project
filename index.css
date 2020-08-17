@@ -14,6 +14,11 @@ h1 {
     
 }
 
+div.linkuniv {
+    background-color: rgba(255,255,255,0.5);
+    padding: 25px;
+}
+
 div.reading {
    background-color: rgba(255,255,255,0.5);
    padding: 25px;
