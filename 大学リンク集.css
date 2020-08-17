@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-image: url("https://lkalcg.com/wp/wp-content/themes/lkalcg/images/haikei_02.jpg");
+}
+
+h1 {
+    background-color: slateblue;
+}
+ h2 {
+    background-color: skyblue;
+    border-radius: 15px;
+ }
+
+ button {
+    background-color: blue;
+    color: white;
+    width: 300px;
+    font-size: 30px;
+    font-family: oswald;
+    border-radius: 8px;
+    box-shadow: 0px 8px 0px navy;
+    margin-left: 15px;
+ }
